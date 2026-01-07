@@ -172,7 +172,7 @@ sidmkit validate --target curve --reference your_curve.csv \
   --mchi 10 --mmed 0.05 --alpha 0.01 --potential attractive
 ```
 
-### Fig.13-style regression number (approximate)
+
 
 This is a non-authoritative regression test using a small set of auto-digitized points:
 
