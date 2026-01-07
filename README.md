@@ -14,10 +14,10 @@ A transparent toolkit for **self-interacting dark matter (SIDM)** micro→macro 
 
 ---
 
-## Install (editable)
+## Install
 
 ```bash
-git clone <your-fork-or-this-repo>
+git clone
 cd sidmkit
 python -m venv .venv
 source .venv/bin/activate
@@ -43,7 +43,7 @@ sidmkit validate --help
 
 ---
 
-## End-to-end pipeline (reviewer-proof baseline)
+## End-to-end pipeline
 
 This is the **recommended** reproducible workflow.
 
