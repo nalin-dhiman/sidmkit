@@ -9,7 +9,7 @@ A transparent toolkit for **self-interacting dark matter (SIDM)** micro→macro 
 - Lightweight **likelihood scaffolds** + a tiny Metropolis MCMC for runnable end-to-end demos
 - Benchmarks & regression numbers to catch numerical/unit regressions
 
-> Be critical: sidmkit is designed to be easy to audit and extend.
+> sidmkit is designed to be easy to audit and extend.
 > The included constraints and likelihoods are *starting points*, not publication-grade analyses.
 
 ---
