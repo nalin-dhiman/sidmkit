@@ -215,7 +215,7 @@ python -m sidmkit.sparc_batch merge   --inputs outputs/sparc_chunks/chunk_*/summ
 python -m sidmkit.sparc_batch report   --summary-json outputs/sparc_all_summary.json   --outdir outputs/sparc_report
 ```
 
-> Be critical: these are halo-profile fits (baseline model comparison), not a
+> These are halo-profile fits (baseline model comparison), not a
 > full SIDM microphysics → core-size inference of SPARC.
 
 
