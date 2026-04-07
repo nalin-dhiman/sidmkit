@@ -228,7 +228,15 @@ python examples/quickstart.py
 ```
 
 ---
+## Citation
 
-## License
+If you use this work, please cite:
 
-MIT
+Dhiman, N. (2026). sidmkit: A Reproducible Toolkit for SIDM Phenomenology and Galaxy Rotation-Curve Modeling.
+
+arXiv:2601.04735.
+
+https://doi.org/10.48550/arXiv.2601.04735
+
+
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv:2601.04735-blue)](https://doi.org/10.48550/arXiv.2601.04735)
